@@ -1,0 +1,1 @@
+{"c":["pages/post/[id]","webpack"],"r":["pages/post"],"m":["./components/postItem.js","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=F%3A%5Ccv%5Cweb%20site%204%5Cproject%204%5Cclient%5Cpages%5Cpost%5Cindex.js&page=%2Fpost!","./node_modules/react-bootstrap/esm/Container.js","./pages/post/index.js"]}
